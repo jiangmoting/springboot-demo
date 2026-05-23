@@ -1,0 +1,154 @@
+10-Apr-2026 13:17:34.628 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.35
+10-Apr-2026 13:17:34.632 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        May 5 2020 20:36:20 UTC
+10-Apr-2026 13:17:34.633 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(:     9.0.35.0
+10-Apr-2026 13:17:34.633 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+10-Apr-2026 13:17:34.634 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+10-Apr-2026 13:17:34.634 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+10-Apr-2026 13:17:34.634 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Program Files\Java\jdk1.8.0_181\jre
+10-Apr-2026 13:17:34.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_181-b13
+10-Apr-2026 13:17:34.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+10-Apr-2026 13:17:34.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:17:34.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:17:34.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.config.file=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\conf\logging.properties
+10-Apr-2026 13:17:34.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Apr-2026 13:17:34.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djdk.tls.ephemeralDHKeySize=2048
+10-Apr-2026 13:17:34.637 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Apr-2026 13:17:34.637 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dignore.endorsed.dirs=
+10-Apr-2026 13:17:34.637 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.base=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:17:34.637 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.home=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:17:34.637 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.io.tmpdir=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\temp
+10-Apr-2026 13:17:34.637 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[C:\Program Files\Java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\IDM Computer Solutions\UltraEdit;C:\Program Files\IDM Computer Solutions\UltraCompare;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jdk1.8.0_181\jre\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python314\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;C:\Users\Administrator\AppData\Local\Programs\Ollama;C:\Program Files\JetBrains\PyCharm 2025.3.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.2.5\bin;;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Local\Programs\cody\bin;.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+10-Apr-2026 13:17:34.862 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+10-Apr-2026 13:17:34.955 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[450]毫秒内初始化
+10-Apr-2026 13:17:34.972 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+10-Apr-2026 13:17:34.972 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.35]
+10-Apr-2026 13:17:34.976 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\docs]
+10-Apr-2026 13:17:35.109 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\docs]的部署已在[132]毫秒内完成
+10-Apr-2026 13:17:35.111 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\examples]
+10-Apr-2026 13:17:35.269 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\examples]的部署已在[158]毫秒内完成
+10-Apr-2026 13:17:35.271 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\host-manager]
+10-Apr-2026 13:17:35.288 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\host-manager]的部署已在[17]毫秒内完成
+10-Apr-2026 13:17:35.289 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\manager]
+10-Apr-2026 13:17:35.302 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\manager]的部署已在[13]毫秒内完成
+10-Apr-2026 13:17:35.304 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\ROOT]
+10-Apr-2026 13:17:35.314 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\ROOT]的部署已在[10]毫秒内完成
+10-Apr-2026 13:17:35.316 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+10-Apr-2026 13:17:35.321 信息 [main] org.apache.catalina.startup.Catalina.start [364]毫秒后服务器启动
+10-Apr-2026 13:23:02.992 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log Server.�������汾: Apache Tomcat/9.0.35
+10-Apr-2026 13:23:02.993 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log ����������:        May 5 2020 20:36:20 UTC
+10-Apr-2026 13:23:02.993 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log �������汾��(:     9.0.35.0
+10-Apr-2026 13:23:02.993 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log ����ϵͳ����:      Windows 10
+10-Apr-2026 13:23:02.994 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log OS.�汾:           10.0
+10-Apr-2026 13:23:02.994 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log �ܹ�:              amd64
+10-Apr-2026 13:23:02.994 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log Java ��������:     C:\Program Files\Java\jdk1.8.0_181\jre
+10-Apr-2026 13:23:02.994 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log Java������汾:    1.8.0_181-b13
+10-Apr-2026 13:23:02.994 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.��Ӧ��:        Oracle Corporation
+10-Apr-2026 13:23:02.994 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:23:02.994 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:23:02.994 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log �����в�����-Djava.util.logging.config.file=D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\conf\logging.properties
+10-Apr-2026 13:23:02.994 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log �����в�����-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Apr-2026 13:23:02.995 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log �����в�����-Djdk.tls.ephemeralDHKeySize=2048
+10-Apr-2026 13:23:02.995 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log �����в�����-Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Apr-2026 13:23:02.996 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log �����в�����-Dignore.endorsed.dirs=
+10-Apr-2026 13:23:02.996 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log �����в�����-Dcatalina.base=D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:23:02.996 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log �����в�����-Dcatalina.home=D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:23:02.996 ��Ϣ [main] org.apache.catalina.startup.VersionLoggerListener.log �����в�����-Djava.io.tmpdir=D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\temp
+10-Apr-2026 13:23:02.997 ��Ϣ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent ��java.library.path:[C:\Program Files\Java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\IDM Computer Solutions\UltraEdit;C:\Program Files\IDM Computer Solutions\UltraCompare;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jdk1.8.0_181\jre\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python314\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;C:\Users\Administrator\AppData\Local\Programs\Ollama;C:\Program Files\JetBrains\PyCharm 2025.3.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.2.5\bin;;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Local\Programs\cody\bin;.]���Ҳ�������APR��Apache Tomcat�����⣬�ÿ����������������л���������
+10-Apr-2026 13:23:03.129 ��Ϣ [main] org.apache.coyote.AbstractProtocol.init ��ʼ��Э�鴦���� ["http-nio-8080"]
+10-Apr-2026 13:23:03.206 ��Ϣ [main] org.apache.catalina.startup.Catalina.load ��������[297]�����ڳ�ʼ��
+10-Apr-2026 13:23:03.221 ��Ϣ [main] org.apache.catalina.core.StandardService.startInternal ������������[Catalina]
+10-Apr-2026 13:23:03.222 ��Ϣ [main] org.apache.catalina.core.StandardEngine.startInternal �������� Servlet ���棺[Apache Tomcat/9.0.35]
+10-Apr-2026 13:23:03.226 ��Ϣ [main] org.apache.catalina.startup.HostConfig.deployDirectory ��web Ӧ�ó�����Ŀ¼ [D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\docs]
+10-Apr-2026 13:23:03.333 ��Ϣ [main] org.apache.catalina.startup.HostConfig.deployDirectory WebӦ�ó���Ŀ¼[D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\docs]�Ĳ�������[107]���������
+10-Apr-2026 13:23:03.335 ��Ϣ [main] org.apache.catalina.startup.HostConfig.deployDirectory ��web Ӧ�ó�����Ŀ¼ [D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\examples]
+10-Apr-2026 13:23:03.486 ��Ϣ [main] org.apache.catalina.startup.HostConfig.deployDirectory WebӦ�ó���Ŀ¼[D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\examples]�Ĳ�������[151]���������
+10-Apr-2026 13:23:03.487 ��Ϣ [main] org.apache.catalina.startup.HostConfig.deployDirectory ��web Ӧ�ó�����Ŀ¼ [D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\host-manager]
+10-Apr-2026 13:23:03.504 ��Ϣ [main] org.apache.catalina.startup.HostConfig.deployDirectory WebӦ�ó���Ŀ¼[D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\host-manager]�Ĳ�������[17]���������
+10-Apr-2026 13:23:03.504 ��Ϣ [main] org.apache.catalina.startup.HostConfig.deployDirectory ��web Ӧ�ó�����Ŀ¼ [D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\manager]
+10-Apr-2026 13:23:03.517 ��Ϣ [main] org.apache.catalina.startup.HostConfig.deployDirectory WebӦ�ó���Ŀ¼[D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\manager]�Ĳ�������[13]���������
+10-Apr-2026 13:23:03.518 ��Ϣ [main] org.apache.catalina.startup.HostConfig.deployDirectory ��web Ӧ�ó�����Ŀ¼ [D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\ROOT]
+10-Apr-2026 13:23:03.529 ��Ϣ [main] org.apache.catalina.startup.HostConfig.deployDirectory WebӦ�ó���Ŀ¼[D:\AI��ģ��\�׶�һ\JavaWeb\javaweb�γ���������\��װ����\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\ROOT]�Ĳ�������[11]���������
+10-Apr-2026 13:23:03.531 ��Ϣ [main] org.apache.coyote.AbstractProtocol.start ��ʼЭ�鴦�����["http-nio-8080"]
+10-Apr-2026 13:23:03.535 ��Ϣ [main] org.apache.catalina.startup.Catalina.start [328]��������������
+10-Apr-2026 13:23:23.023 ��Ϣ [main] org.apache.catalina.core.StandardServer.await ͨ���رն˿ڽ��յ���Ч�Ĺر��������ֹͣ������ʵ����
+10-Apr-2026 13:23:23.025 ��Ϣ [main] org.apache.coyote.AbstractProtocol.pause ��ͣProtocolHandler["http-nio-8080"]
+10-Apr-2026 13:23:23.079 ��Ϣ [main] org.apache.catalina.core.StandardService.stopInternal ����ֹͣ����[Catalina]
+10-Apr-2026 13:23:23.089 ��Ϣ [main] org.apache.coyote.AbstractProtocol.stop ����ֹͣProtocolHandler ["http-nio-8080"]
+10-Apr-2026 13:23:23.097 ��Ϣ [main] org.apache.coyote.AbstractProtocol.destroy ���ڴݻ�Э�鴦���� ["http-nio-8080"]
+10-Apr-2026 13:25:31.952 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.35
+10-Apr-2026 13:25:31.953 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        May 5 2020 20:36:20 UTC
+10-Apr-2026 13:25:31.953 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(:     9.0.35.0
+10-Apr-2026 13:25:31.953 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+10-Apr-2026 13:25:31.954 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+10-Apr-2026 13:25:31.954 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+10-Apr-2026 13:25:31.954 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Program Files\Java\jdk1.8.0_181\jre
+10-Apr-2026 13:25:31.954 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_181-b13
+10-Apr-2026 13:25:31.954 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+10-Apr-2026 13:25:31.954 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:25:31.954 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:25:31.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.config.file=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\conf\logging.properties
+10-Apr-2026 13:25:31.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Apr-2026 13:25:31.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djdk.tls.ephemeralDHKeySize=2048
+10-Apr-2026 13:25:31.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Apr-2026 13:25:31.956 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dignore.endorsed.dirs=
+10-Apr-2026 13:25:31.956 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.base=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:25:31.956 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.home=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:25:31.956 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.io.tmpdir=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\temp
+10-Apr-2026 13:25:31.956 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[C:\Program Files\Java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\IDM Computer Solutions\UltraEdit;C:\Program Files\IDM Computer Solutions\UltraCompare;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jdk1.8.0_181\jre\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python314\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;C:\Users\Administrator\AppData\Local\Programs\Ollama;C:\Program Files\JetBrains\PyCharm 2025.3.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.2.5\bin;;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Local\Programs\cody\bin;.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+10-Apr-2026 13:25:32.088 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+10-Apr-2026 13:25:32.167 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[299]毫秒内初始化
+10-Apr-2026 13:25:32.181 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+10-Apr-2026 13:25:32.181 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.35]
+10-Apr-2026 13:25:32.185 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\docs]
+10-Apr-2026 13:25:32.294 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\docs]的部署已在[109]毫秒内完成
+10-Apr-2026 13:25:32.294 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\examples]
+10-Apr-2026 13:25:32.438 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\examples]的部署已在[144]毫秒内完成
+10-Apr-2026 13:25:32.438 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\host-manager]
+10-Apr-2026 13:25:32.454 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\host-manager]的部署已在[16]毫秒内完成
+10-Apr-2026 13:25:32.455 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\manager]
+10-Apr-2026 13:25:32.468 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\manager]的部署已在[13]毫秒内完成
+10-Apr-2026 13:25:32.468 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\ROOT]
+10-Apr-2026 13:25:32.479 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\ROOT]的部署已在[11]毫秒内完成
+10-Apr-2026 13:25:32.481 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+10-Apr-2026 13:25:32.485 信息 [main] org.apache.catalina.startup.Catalina.start [317]毫秒后服务器启动
+10-Apr-2026 13:25:39.936 信息 [main] org.apache.catalina.core.StandardServer.await 通过关闭端口接收到有效的关闭命令。正在停止服务器实例。
+10-Apr-2026 13:25:39.936 信息 [main] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8080"]
+10-Apr-2026 13:25:39.992 信息 [main] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+10-Apr-2026 13:25:40.000 信息 [main] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8080"]
+10-Apr-2026 13:25:40.008 信息 [main] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8080"]
+10-Apr-2026 13:41:14.658 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.35
+10-Apr-2026 13:41:14.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        May 5 2020 20:36:20 UTC
+10-Apr-2026 13:41:14.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(:     9.0.35.0
+10-Apr-2026 13:41:14.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+10-Apr-2026 13:41:14.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+10-Apr-2026 13:41:14.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+10-Apr-2026 13:41:14.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Program Files\Java\jdk1.8.0_181\jre
+10-Apr-2026 13:41:14.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_181-b13
+10-Apr-2026 13:41:14.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+10-Apr-2026 13:41:14.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:41:14.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:41:14.661 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.config.file=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\conf\logging.properties
+10-Apr-2026 13:41:14.661 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Apr-2026 13:41:14.661 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djdk.tls.ephemeralDHKeySize=2048
+10-Apr-2026 13:41:14.661 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Apr-2026 13:41:14.661 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dignore.endorsed.dirs=
+10-Apr-2026 13:41:14.661 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.base=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:41:14.661 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.home=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35
+10-Apr-2026 13:41:14.661 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.io.tmpdir=D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\temp
+10-Apr-2026 13:41:14.662 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[C:\Program Files\Java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\IDM Computer Solutions\UltraEdit;C:\Program Files\IDM Computer Solutions\UltraCompare;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jdk1.8.0_181\jre\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python314\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;C:\Users\Administrator\AppData\Local\Programs\Ollama;C:\Program Files\JetBrains\PyCharm 2025.3.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.2.5\bin;;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Local\Programs\cody\bin;.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+10-Apr-2026 13:41:14.800 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+10-Apr-2026 13:41:14.879 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[309]毫秒内初始化
+10-Apr-2026 13:41:14.891 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+10-Apr-2026 13:41:14.892 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.35]
+10-Apr-2026 13:41:14.895 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\docs]
+10-Apr-2026 13:41:15.014 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\docs]的部署已在[119]毫秒内完成
+10-Apr-2026 13:41:15.014 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\examples]
+10-Apr-2026 13:41:15.165 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\examples]的部署已在[151]毫秒内完成
+10-Apr-2026 13:41:15.165 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\host-manager]
+10-Apr-2026 13:41:15.181 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\host-manager]的部署已在[16]毫秒内完成
+10-Apr-2026 13:41:15.182 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\manager]
+10-Apr-2026 13:41:15.203 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\manager]的部署已在[21]毫秒内完成
+10-Apr-2026 13:41:15.203 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\ROOT]
+10-Apr-2026 13:41:15.215 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\AI大模型\阶段一\JavaWeb\javaweb课程配套软件\安装软件\tomcat\apache-tomcat-9.0.35\apache-tomcat-9.0.35\webapps\ROOT]的部署已在[11]毫秒内完成
+10-Apr-2026 13:41:15.216 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+10-Apr-2026 13:41:15.221 信息 [main] org.apache.catalina.startup.Catalina.start [340]毫秒后服务器启动

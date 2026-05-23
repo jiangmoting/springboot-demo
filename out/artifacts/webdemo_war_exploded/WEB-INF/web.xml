@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+    <!--    <servlet>-->
+    <!--        <servlet-name>userServlet</servlet-name>-->
+    <!--        <servlet-class>net.xdclass.web.controller.UserServlet</servlet-class>-->
+    <!--    </servlet>-->
+    <!--    -->
+    <!--    <servlet-mapping>-->
+    <!--        <servlet-name>userServlet</servlet-name>-->
+    <!--        <url-pattern>/userServlet/find</url-pattern>-->
+    <!--    </servlet-mapping>-->
+
+<!--    <context-param>-->
+<!--        <param-name>url</param-name>-->
+<!--        <param-value>xdclass.net</param-value> </context-param>-->
+<!--    <context-param>-->
+<!--        <param-name>username</param-name>-->
+<!--        <param-value>jack</param-value>-->
+<!--    </context-param>-->
+<!--&lt;!&ndash;CustomFilter过滤&ndash;&gt;-->
+<!--    <filter>-->
+<!--        <filter-name>CustomFilter</filter-name>-->
+<!--        <filter-class>net.xdclass.web.filter.CustomFilter</filter-class>-->
+<!--        <init-param>-->
+<!--            <param-name>encoding</param-name>-->
+<!--            <param-value>UTF-8</param-value>-->
+<!--        </init-param>-->
+<!--        <init-param>-->
+<!--            <param-name>loginPage</param-name>-->
+<!--            <param-value>/login.jsp</param-value>-->
+<!--        </init-param>-->
+<!--    </filter>-->
+
+<!--    <filter-mapping>-->
+<!--        <filter-name>CustomFilter</filter-name>-->
+<!--        <url-pattern>/*</url-pattern>-->
+<!--&lt;!&ndash;        <dispatcher>REQUEST</dispatcher>&ndash;&gt;-->
+<!--        <dispatcher>FORWARD</dispatcher>-->
+<!--    </filter-mapping>-->
+
+    <!--LoginFilter过滤-->
+<!--    <filter>-->
+<!--        <filter-name>LoginFilter</filter-name>-->
+<!--        <filter-class>net.xdclass.web.filter.LoginFilter</filter-class>-->
+<!--        <init-param>-->
+<!--            <param-name>encoding</param-name>-->
+<!--            <param-value>UTF-8</param-value>-->
+<!--        </init-param>-->
+<!--        <init-param>-->
+<!--            <param-name>loginPage</param-name>-->
+<!--            <param-value>/login.jsp</param-value>-->
+<!--        </init-param>-->
+<!--    </filter>-->
+
+<!--    <filter-mapping>-->
+<!--        <filter-name>LoginFilter</filter-name>-->
+<!--        <url-pattern>/user/*</url-pattern>-->
+        <!--        <dispatcher>REQUEST</dispatcher>-->
+<!--        <dispatcher>FORWARD</dispatcher>-->
+<!--    </filter-mapping>-->
+
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+
+    <context-param>
+        <param-name>url</param-name>
+        <param-value>https://xdclass.net</param-value>
+    </context-param>
+    <context-param>
+        <param-name>topic</param-name>
+        <param-value>⼩滴课堂java⾼级⼯程师成⻓专题视频</param-value> </context-param>
+</web-app>
